@@ -65,3 +65,4 @@ There are in total 5 assignments available.
 
 It is highly likely that such a problem can be addressed more easily by little languages like CNF or ZIMPL. Still, this is a worthy Java practice.
 
+Note that this solution is not exhaustive. This is problem has already been generalized as a classic math problem known as __social golfer problem__ and has been known as unsolvable in general sense. A discovered solution for dividing 32 people into 8 groups is [A 10 Days Solution to the Social Golfer Problem](http://www.mathpuzzle.com/MAA/54-Golf%20Tournaments/socgolf1.pdf)
