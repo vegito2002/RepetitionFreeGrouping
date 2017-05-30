@@ -63,4 +63,5 @@ team8: 20 21 27 30
 There are in total 5 assignments available. 
 ```
 
+It is highly likely that such a problem can be addressed more easily by little languages like CNF or ZIMPL. Still, this is a worthy Java practice.
 
