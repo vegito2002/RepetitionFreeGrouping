@@ -1,5 +1,7 @@
 # Repetition Free Grouping
 
+### TODO: implement backtracking to make the algorithm exhaustive. `java Group 32 8` should return 10 answers to be exhaustive.
+
 This small utility is inspired by a problem encountered in real life:
 > Given _m_ members, we need to divide them into _n_ groups/teams uniformly. To simplify the question, we assume that _m_ is always divisible by _n_.
 > The goal is to find the number of assignments (of members to teams) so that any two of the _m_ members only share the same team in one assignment. 
